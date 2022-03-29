@@ -27,7 +27,7 @@ body{
 }
 .plant{
     width:35vw;
-    background-image: url("./plant.JPG");
+    background-image: url("./plant.jpg");
     background-size: cover;
     position: relative;
     margin:0;
